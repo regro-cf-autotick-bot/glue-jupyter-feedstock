@@ -20,9 +20,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - glue-core >=1.7.0
-    - glue-vispy-viewers >=1.0
-    - notebook >=4.0
+    - glue-core >=1.25.0
     - ipympl >=0.3.0
     - ipyvolume >=0.5.0
     - ipywidgets >=7.4.0
